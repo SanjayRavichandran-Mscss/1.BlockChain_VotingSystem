@@ -1,0 +1,10 @@
+{
+  "name": "dummy_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^4.3.0",
+    "yarn": "^1.22.21"
+  }
+}
